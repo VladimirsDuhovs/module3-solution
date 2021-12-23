@@ -16,6 +16,10 @@ div .ref-point {
     padding-top: 70px;
 }
 
+#title-header {
+    text-transform: uppercase;
+}
+
 #footer {
     margin-top: 20px;
     margin-bottom: 20px;
