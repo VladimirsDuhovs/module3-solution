@@ -1,0 +1,57 @@
+div .title-box {
+    text-align: justify;
+}
+
+div .text-box {
+    padding: 10px 10px 10px 10px;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+div .ref-point {
+    padding-top: 70px;
+}
+
+#footer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#footer a {
+    color: black;
+    text-transform: uppercase;
+}
+
+.navbar .nav-item:hover .nav-link {
+    color: gray;
+}
+
+#footer a:hover {
+    color: gray;
+}
+
+
+.navbar-brand {
+    font-size: 35px;
+    height: 60px;
+    text-transform: uppercase;
+}
+
+
+.navbar .navbar-collapse {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+.navbar button.navbar-toggler, .navbar .navbar-toggler-icon {
+    border: 0 solid #61122f;
+}
+
+.navbar button.navbar-toggle {
+    clear: both;
+}
